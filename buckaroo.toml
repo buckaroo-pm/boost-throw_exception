@@ -1,0 +1,1 @@
+targets = [ "//:throw_exception" ]
