@@ -1,0 +1,17 @@
+targets = [ "//:throw-exception" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.67.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.67.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-exception"
+version = "1.67.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "1.67.0"
