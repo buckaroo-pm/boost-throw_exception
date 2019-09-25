@@ -1,4 +1,4 @@
-manifest = "f83e11375c27b08e0985e2b55585886579353e15cb66bd9ed52fccb1d79c6b99"
+manifest = "d4749777ab5bcbc7e815dca69c7cb937c671d6b4b03ee9d4a54a22525477bfd6"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-config"
