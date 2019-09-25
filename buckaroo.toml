@@ -1,4 +1,4 @@
-targets = [ "//:throw-exception" ]
+targets = [ "//:throw_exception" ]
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-config"
